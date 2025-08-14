@@ -1,3 +1,4 @@
 # sairaj-ppslab-sem1
-this is for C programming code
 author - sairaj shirke
+<br>
+the only owner of the repos
